@@ -19,8 +19,8 @@
 #define DHTPIN D1
 #define FIREBASE_HOST "https://itbootcamp-de119-default-rtdb.firebaseio.com/"
 #define FIREBASE_AUTH "b54fe5fe9f3c38fe612c84ed63a1222a396f1953"
-#define WIFI_SSID "Igor"
-#define WIFI_PASSWORD "12345678-10"
+#define WIFI_SSID "guest-it-academy"
+#define WIFI_PASSWORD "guest_ocpvt"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
